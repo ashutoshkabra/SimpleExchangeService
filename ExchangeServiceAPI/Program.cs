@@ -14,7 +14,6 @@ namespace ExchangeServiceAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
 
             // Bind config section
