@@ -8,7 +8,6 @@ using Microsoft.Extensions.Options;
 
 #endregion
 
-
 namespace ExchangeService_XUnitTests.Services
 {
     public class ForexServicesTests
